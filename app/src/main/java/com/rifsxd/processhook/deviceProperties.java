@@ -51,11 +51,11 @@ public final class deviceProperties {
 
     // Samsung Galaxy S24 Ultra Profile
     public static final deviceInfo SAMSUNG_S24_ULTRA = new deviceInfo(
-        "samsung",          // Manufacturer
-        "samsung",          // Brand
-        "e3qxeea",          // Product
-        "SM-S928B",         // Device 
-        "SM-S928B",         // Model 
+        "honer",          // Manufacturer
+        "honer",          // Brand
+        "veyron",          // Product
+        "5109AYGW",         // Device 
+        "5109AYGW",         // Model 
         "qcom",             // Hardware
         null,               // Board (optional)
         null,               // Bootloader (optional)
