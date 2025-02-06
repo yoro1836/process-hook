@@ -53,9 +53,9 @@ public final class deviceProperties {
     public static final deviceInfo SAMSUNG_S24_ULTRA = new deviceInfo(
         "honer",          // Manufacturer
         "honer",          // Brand
-        "veyron",          // Product
-        "5109AYGW",         // Device 
-        "5109AYGW",         // Model 
+        "VER-N49",          // Product
+        "VER-N49",         // Device 
+        "VER-N49",         // Model 
         "qcom",             // Hardware
         null,               // Board (optional)
         null,               // Bootloader (optional)
